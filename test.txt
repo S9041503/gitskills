@@ -1,3 +1,7 @@
 test.
+<<<<<<< HEAD
+feature.
+=======
 main.
+>>>>>>> main
 
