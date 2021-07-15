@@ -1,3 +1,3 @@
 # gitskills
-local
+remote
 
