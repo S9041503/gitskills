@@ -21,7 +21,7 @@ if __name__ == "__main__":
     for i in range(10):
         print(i)
 
-        
+
 
     if len(sys.argv) > 2:
         num1 = int(sys.argv[1])
@@ -30,3 +30,4 @@ if __name__ == "__main__":
         print("this command takes two arguments and adds them\nless than two arguments given.")
         sys.exit(1)
     print("%s" % str(num1+num2))
+    print("hello, world!")
