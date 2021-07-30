@@ -19,7 +19,7 @@ if __name__ == "__main__":
     # output = os.popen('ls -l *')
     # print(output.read())
     for i in range(10):
-        print(i)
+        print(i)33
 
 
 
