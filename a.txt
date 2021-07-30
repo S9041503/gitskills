@@ -4,11 +4,8 @@ fdsahfjlkasdfdsa
 fdsafasfasfsa
 fdsafdsafsaff
 
-<<<<<<< HEAD
 gfdsgdsasfd
-=======
 fsadfdasfas
->>>>>>> ddd
 
 
 fdsaf
