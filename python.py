@@ -12,7 +12,7 @@ if __name__ == "__main__":
     #         names[name] += 1
     #     else:
     #         names[name] = 1
-
+    # hahahaha
     # for name, count in names.items():
     #     sys.stdout.write("%d\t%s\n"%(count, name))
     # os.system("ls -l *")
