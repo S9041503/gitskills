@@ -1,14 +1,24 @@
+<<<<<<< HEAD
 fdddfjasl;fasdfadskjfd;ljddddddddddd
 fdafasfasdfdasdfasfda
+=======
+fdddfjasl;fasdfadskjfd;ljfddddddddddd
+fdafasdfasfda
+>>>>>>> ab0b1b6a28d902319e0a5a8dfcf09f99affe1a12
 fdasfa
 dddddddddddddd
 sffdsafdfasdffasdfassaffasfsafadddsfdsafasdfdfdsafafdasfdasdfdadsdsfsafashkfjl
 fdsahfjlfasdfaskasdfdsa
+<<<<<<< HEAD
 fdsaffadsfaasfasfsa
 fdsafdsafsaff
+=======
+fdsafasfasfsa
+fdsafdsafsafffasfasdfas
+>>>>>>> ab0b1b6a28d902319e0a5a8dfcf09f99affe1a12
 hhhhfsafasdfdfas
 gfdsfasdfgdsasfdfff
-fsadfdasfas
+ffdassadffasdfdasfas
 dddfdsfasdfasfafsa
 fdasfasfasf
 fdsaf
@@ -19,16 +29,21 @@ fdasfhalfdsafakjdsfdsafhfdsaffsda
 aaa
 fdsa
 fdsaadsfsafdsaffdsafsdafsda
+<<<<<<< HEAD
 
 fasfad
+=======
+fasdfasdf
+
+>>>>>>> ab0b1b6a28d902319e0a5a8dfcf09f99affe1a12
 fasdfsf
 dddfasfasdd1111
-1111dddd
+1111dddfdasfasd
 fdsafsa
 aafsfdafdaafasfasadsaaaaa
 fdsafdsddfasdfasfdasfdasaffdasf
 erfdasfaswjfdafdasfdassfldk;sajfkljashjkreqw
-fdasfffasdfdsahafasdflfdsafakjdsfdsafhfdsaffsda
+fdasfffasdfdsahasfadsfasdfasdflfdsafakjdsfdsafhfdsaffsda
 aaffdasdasa
 fdsfffasddasdfsdafasa
 ddfdsafsffadsdfadsfasfasdfdsad
@@ -36,7 +51,13 @@ ddfdsafsffadsdfadsfasfasdfdsad
 
 dfasffasdfdasf
 f
+<<<<<<< HEAD
 dasfasfasfdfas
 \
 fas
+=======
+dasfasdfasfasdf
+\
+fadsfa
+>>>>>>> ab0b1b6a28d902319e0a5a8dfcf09f99affe1a12
 fasf
