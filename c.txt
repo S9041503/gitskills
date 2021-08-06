@@ -1,5 +1,10 @@
 fdasfadsf
 
+<<<<<<< HEAD
+fdsa
 
+=======
+fdasfd
+>>>>>>> dev
 
 faskl;dfjka;lf
