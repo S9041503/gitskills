@@ -1,5 +1,10 @@
 test.
+<<<<<<< HEAD
 fdddd.
 dddd
 ddd
 
+=======
+
+fdsafdas
+>>>>>>> be23bcb1e0b249f1e1f1f2c45182179378cb5e02
